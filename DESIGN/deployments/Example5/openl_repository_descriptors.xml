@@ -6,4 +6,11 @@
     <branch>master</branch>
     <projectVersion>c527a9986ae5fd81c4274675bd1400e9cea43526</projectVersion>
   </descriptor>
+  <descriptor>
+    <repositoryId>design</repositoryId>
+    <path>DESIGN/rules/Example1</path>
+    <projectName>Example1</projectName>
+    <branch>master</branch>
+    <projectVersion>2067d2c4ca7030df229483cdab44c16a8ea92574</projectVersion>
+  </descriptor>
 </descriptors>
